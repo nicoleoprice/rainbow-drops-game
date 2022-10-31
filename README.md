@@ -1,7 +1,7 @@
-# raindrops-games
-Raindrops Game
+# rainbow-drops
+Rainbow Drops Game
 
-_Rules_
+*Rules*
 
 Collect the rainbow raindrops with the corresponding colored bucket
 - if the colors match, you gain 10 points
