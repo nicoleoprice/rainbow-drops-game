@@ -1,4 +1,4 @@
-# rainbow-drops
+
 Rainbow Drops Game
 
 *Rules*
